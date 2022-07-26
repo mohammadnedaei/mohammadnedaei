@@ -1,0 +1,61 @@
+## Hi, I'm **Mohammad Nedaei** 🤗
+<hr />
+
+## 🔎 About Me:
+ Experienced and self-motivated Front End Developer with 2+ years of experience. I was started programming before college when I was working on a Unity / Unreal Engine project that motivated me to learn JavaScript & C# Script. This was the starting point for getting acquainted with the JavaScript fields.
+
+
+- 🎯 Im currently working on cool React / React Native projects on my github
+- 📘 Im learning JavaScript, React, React Native and Web development
+
+### 🧰 Languages and Tools:
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
+<img alt="WebStorm" src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" height="25px"/>  
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/> 
+<img alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" height="25px"/>
+<img alt="Unreal Engine" src="https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" height="25px"/> 
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="25px"/>
+<img alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" height="25px"/>
+<img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="25px"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+<img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+
+### 📈 My Github Summery
+
+<img alt="Github Viewers" src="https://komarev.com/ghpvc/?username=mohammadnedaei&style=flat-square&color=blue">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/mohammadnedaei?style=flat-square&color=brightgreen">
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohammadnedaei&theme=dracula&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadnedaei&hide_border=true&show_icons=true&bg_color=100,1a2a6c,b21f1f,fdbb2d&text_color=fff&title_color=00FF00)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadnedaei&exclude_repo=Multipurpose-Business-Services-HTML-Website-Template&bg_color=100,0f0c29,302b63&text_color=fff&title_color=FF8000
+)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadnedaei)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### 🔧 Contributing
+
+Feel free to fork my repositories and make pull requests.
+
+### 💚 Support
+
+<a href="https://sociabuzz.com/mohammadnedaei/donate" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
+
+### ✍🏻 Author
+
+     Mohammad Nedaei
+
+### 📞 Contact
+
+    Discord: Mohammad81#3277
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-nedaei-47789b1a6/)
+
