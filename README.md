@@ -7,7 +7,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 75.5 kB Used in GitHub's Storage 
+> 📦 75.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 65 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,7 +70,7 @@ HTML                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohammadnedaei/mohammadnedaei/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2023 18:37:06 UTC
+ Last Updated on 17/10/2023 18:36:33 UTC
 <!--END_SECTION:waka-->
 
 ## Hi, I'm **Mohammad Nedaei** 🤗
