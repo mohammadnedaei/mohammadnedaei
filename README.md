@@ -9,8 +9,6 @@
 
 > 📦 75.5 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -70,7 +68,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/mohammadnedaei/mohammadnedaei/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2023 18:33:51 UTC
+ Last Updated on 30/10/2023 18:35:07 UTC
 <!--END_SECTION:waka-->
 
 ## Hi, I'm **Mohammad Nedaei** 🤗
